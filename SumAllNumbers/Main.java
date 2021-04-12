@@ -1,4 +1,4 @@
-package com.company;
+package SumAllNumbers;
 
 import java.util.Scanner;
 
